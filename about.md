@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have been developing electronic products for about 15 years. About 6 years ago I developed my first mobile application for a insurance brokerage. This was when my love for software development really took off. I enjoy solving problems using technology 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+##### I have worked with the following technologies
+ - C#.
+ - ASP.NET
+ - RAZOR
+ - HTML
+ - CSS
+ - JAVASCRIPT
+ - MySQL
+ - MSSQL
+ - AZURE
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mjohan810327@yahoo.com](mailto:mjohan810327@yahoo.com)
